@@ -24,6 +24,5 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
+.svg2shenzhen-cache
+jlcpcb
