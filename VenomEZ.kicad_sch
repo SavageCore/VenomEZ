@@ -2621,7 +2621,7 @@
     )
     (pin "1" (uuid 17d74a01-7dee-456c-9b2e-291111a4b84c))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR011") (unit 1)
         )
@@ -2655,7 +2655,7 @@
     (pin "1" (uuid 6b87587f-f090-4800-a20c-adec912dc62c))
     (pin "2" (uuid d235c970-c06c-47e6-b7e1-b075ea599061))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C2") (unit 1)
         )
@@ -2695,7 +2695,7 @@
     (pin "1" (uuid 1cf63bba-ace6-4673-b91c-211a88817e3e))
     (pin "2" (uuid 729b65c8-a567-4905-8dca-06c6d5b2c42f))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN9") (unit 1)
         )
@@ -2720,7 +2720,7 @@
     )
     (pin "1" (uuid 4d02a194-2fc0-4f60-8a94-8842c222c23b))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR028") (unit 1)
         )
@@ -2745,7 +2745,7 @@
     )
     (pin "1" (uuid e4ba11a1-c41c-438c-84c4-7bde787d5678))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR033") (unit 1)
         )
@@ -2770,7 +2770,7 @@
     )
     (pin "1" (uuid c4699263-1fed-4277-9b48-04e03509a561))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR010") (unit 1)
         )
@@ -2800,7 +2800,7 @@
     )
     (pin "1" (uuid 0fef7a26-8ec2-411d-a534-2cf4ca92a36a))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR05") (unit 1)
         )
@@ -2843,7 +2843,7 @@
     (pin "4" (uuid f0159b7b-7276-4c1f-8666-4b18a94d1026))
     (pin "5" (uuid 0de56b62-9af5-45e6-aec0-7e53ffa0f8fa))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN1") (unit 1)
         )
@@ -2868,7 +2868,7 @@
     )
     (pin "1" (uuid 4ba08276-cd81-4f42-89ee-fd81f222d358))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR04") (unit 1)
         )
@@ -2898,7 +2898,7 @@
     )
     (pin "1" (uuid 156d08df-8e74-4f9e-b72d-e1945b875eb5))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR02") (unit 1)
         )
@@ -2932,7 +2932,7 @@
     (pin "1" (uuid 4577a2d3-bce9-4d2c-a0f6-c3e40e039a42))
     (pin "2" (uuid 675b55dc-d5fd-4a36-a058-a9b678869f3b))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "R7") (unit 1)
         )
@@ -2962,7 +2962,7 @@
     )
     (pin "1" (uuid 4af0b87a-815a-45c5-b4d2-77f46643ef9d))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR034") (unit 1)
         )
@@ -2987,7 +2987,7 @@
     )
     (pin "1" (uuid 8afa7d10-cd72-4292-8ce2-c1f0c67953f9))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR012") (unit 1)
         )
@@ -3017,7 +3017,7 @@
     )
     (pin "1" (uuid 36cd2f02-cc1b-46ca-ba44-8508bbc58610))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR016") (unit 1)
         )
@@ -3051,7 +3051,7 @@
     (pin "1" (uuid f27895cd-e5db-4c30-b390-11e6c2ccc37f))
     (pin "2" (uuid 3a186005-4b50-4c54-9d48-150a1ea3b548))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C11") (unit 1)
         )
@@ -3093,7 +3093,7 @@
     (pin "3" (uuid baa15186-c8d0-4b0e-ae4f-f8bc47e700c0))
     (pin "4" (uuid 586f96da-4b8e-48ef-84a4-9c12aa296d39))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "SW3") (unit 1)
         )
@@ -3118,7 +3118,7 @@
     )
     (pin "1" (uuid e6a01601-f8b0-409b-a47c-71f44d7775a3))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR015") (unit 1)
         )
@@ -3158,7 +3158,7 @@
     (pin "1" (uuid 75a537bc-6720-450f-a1b2-86d4b58ca06a))
     (pin "2" (uuid 6f82f1b6-2c27-4589-a590-d7f4443862f8))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN7") (unit 1)
         )
@@ -3183,7 +3183,7 @@
     )
     (pin "1" (uuid 9698e054-34c3-401f-a6d5-70e64593b471))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR06") (unit 1)
         )
@@ -3213,7 +3213,7 @@
     )
     (pin "1" (uuid 1fa9cda9-f600-46c4-969e-e3af697db3f9))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR017") (unit 1)
         )
@@ -3247,7 +3247,7 @@
     (pin "1" (uuid 5662ba7c-84d5-49fc-9db9-81189e70ea78))
     (pin "2" (uuid cc5977bb-bd19-400b-90fc-58ae515c31a3))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C8") (unit 1)
         )
@@ -3277,7 +3277,7 @@
     )
     (pin "1" (uuid 1df1c1bf-6d93-41de-8509-cb96c1eef9a2))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR032") (unit 1)
         )
@@ -3318,7 +3318,7 @@
     (pin "7" (uuid 1778af73-b9b7-4612-8941-ae9c49c1cd2f))
     (pin "8" (uuid 713b6f1c-56d5-4e3b-a423-8a6e51ff9f79))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN3") (unit 1)
         )
@@ -3347,7 +3347,7 @@
     (pin "1" (uuid 1da18c0b-d02a-4bd3-9bac-d205b90c763c))
     (pin "2" (uuid 5b0cb9f7-ae3c-4955-a673-b2f87afe382a))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C1") (unit 1)
         )
@@ -3377,7 +3377,7 @@
     )
     (pin "1" (uuid 1361b924-a353-4d0c-87be-f32b936cf18d))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR022") (unit 1)
         )
@@ -3406,7 +3406,7 @@
     (pin "1" (uuid 14c50489-35d9-4c32-98f2-ce122b7042e9))
     (pin "2" (uuid a2efa78a-648f-4aa4-bcce-b4a7fc64ffe8))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C9") (unit 1)
         )
@@ -3436,7 +3436,7 @@
     )
     (pin "1" (uuid 1d656d63-ebfb-43f8-9309-70deacd38f20))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR01") (unit 1)
         )
@@ -3481,7 +3481,7 @@
     (pin "8" (uuid b56869eb-a050-45db-844a-b938f94c356c))
     (pin "9" (uuid 717e5a23-3581-4024-96df-6c2a29fd36a1))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "USB1") (unit 1)
         )
@@ -3515,7 +3515,7 @@
     (pin "1" (uuid a185a874-8e01-438c-9a1e-df86790398cd))
     (pin "2" (uuid 0064648a-b12c-44c0-be8e-cab9c8877321))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C16") (unit 1)
         )
@@ -3549,7 +3549,7 @@
     (pin "1" (uuid a0e93102-aa3c-4ea1-aca7-c1686641d1fc))
     (pin "2" (uuid 43a645e3-437d-4e47-9961-cdaac1a994f8))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C7") (unit 1)
         )
@@ -3579,7 +3579,7 @@
     )
     (pin "1" (uuid 7221bd32-a5de-4e74-9025-a8b9b02a19cc))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR023") (unit 1)
         )
@@ -3608,7 +3608,7 @@
     (pin "1" (uuid 30247841-6d51-4f49-afec-b52b1d198a20))
     (pin "2" (uuid c95aa2a4-b04f-48c8-9943-2c15c9e2dfba))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C15") (unit 1)
         )
@@ -3638,7 +3638,7 @@
     )
     (pin "1" (uuid 2c5d4fbf-bab5-44d9-9307-613750973bef))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR025") (unit 1)
         )
@@ -3663,7 +3663,7 @@
     )
     (pin "1" (uuid 759fa5f1-f0f7-4803-a75f-4e08e40b7cd0))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR07") (unit 1)
         )
@@ -3697,7 +3697,7 @@
     (pin "1" (uuid b7656983-8da7-4f4e-b370-dbba9ed65ad4))
     (pin "2" (uuid 5bce3a60-0745-44a7-9439-52bb2c7ff7c1))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C4") (unit 1)
         )
@@ -3731,7 +3731,7 @@
     (pin "1" (uuid 8b2a34c0-706a-4232-ab0d-e6acb0bccaaa))
     (pin "2" (uuid a320a086-3af2-4777-b24c-1d84eb0ec79e))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "R2") (unit 1)
         )
@@ -3777,7 +3777,7 @@
     (pin "7" (uuid c9207c8b-b56b-4e2f-bc7f-4730d116b270))
     (pin "8" (uuid 7eca9dcf-d1f3-4b71-91a1-9134aa6cdcd8))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "U2") (unit 1)
         )
@@ -3809,7 +3809,7 @@
     (pin "4" (uuid 731cfd8c-7cfd-4ad7-9396-7fd4849c9c6d))
     (pin "5" (uuid dfe68509-e166-44b2-8971-75617a60c20e))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "U1") (unit 1)
         )
@@ -3851,7 +3851,7 @@
     (pin "3" (uuid 76abce2d-1e4c-4f0d-aba0-716b21531f5d))
     (pin "4" (uuid f6ebf228-7742-495e-9216-eba6a0ed99f0))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "SW1") (unit 1)
         )
@@ -3876,7 +3876,7 @@
     )
     (pin "1" (uuid ace14d56-07b6-428f-8d67-8539647e146d))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR09") (unit 1)
         )
@@ -3922,7 +3922,7 @@
     (pin "7" (uuid 8d4e328e-0ea3-4d67-bedc-907782a96488))
     (pin "8" (uuid 6e38b3d9-94e6-4a0b-9e0f-d10e98535f20))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN4") (unit 1)
         )
@@ -3947,7 +3947,7 @@
     )
     (pin "1" (uuid a44d3378-19ba-4147-8541-caa8f7a377f6))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR038") (unit 1)
         )
@@ -3972,7 +3972,7 @@
     )
     (pin "1" (uuid 427c81e4-366d-4446-acb5-9739a6ca7792))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR031") (unit 1)
         )
@@ -4010,7 +4010,7 @@
     (pin "7" (uuid 3fc45823-1b46-46c7-b917-06623e11b76a))
     (pin "8" (uuid 7877dd0e-8847-4768-88e4-f4a1d18ec6bb))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN2") (unit 1)
         )
@@ -4039,7 +4039,7 @@
     (pin "1" (uuid bb445187-1069-495d-926a-78dc78f94748))
     (pin "2" (uuid da0c7600-5e12-4056-829d-3c5183100dc8))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C12") (unit 1)
         )
@@ -4079,7 +4079,7 @@
     (pin "1" (uuid 2f3e1ee8-3960-4f23-b13d-8028adb96bb8))
     (pin "2" (uuid 5a0a2fb5-745d-44e8-ae22-2886f7519e4b))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN8") (unit 1)
         )
@@ -4104,7 +4104,7 @@
     )
     (pin "1" (uuid 3425ffd2-df83-4d83-a502-fc7f56c98900))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR019") (unit 1)
         )
@@ -4133,7 +4133,7 @@
     (pin "1" (uuid 8f14d3fe-a92a-455e-85fd-9945a5d2ec05))
     (pin "2" (uuid 78e7ee43-b80d-42c5-b770-206aad02df91))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "R1") (unit 1)
         )
@@ -4167,7 +4167,7 @@
     (pin "1" (uuid 8f1ac5c8-d6c5-463a-8655-2c58e803f0a9))
     (pin "2" (uuid 99dbe911-53af-4853-96fd-e733b1067019))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C10") (unit 1)
         )
@@ -4197,7 +4197,7 @@
     )
     (pin "1" (uuid 78d30751-a62d-4e5b-95f7-65901e112ff4))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR020") (unit 1)
         )
@@ -4239,7 +4239,7 @@
     (pin "3" (uuid 17978810-ef5d-413d-abe5-8aef30ef1a0f))
     (pin "4" (uuid 3a277c92-6f4b-4cd0-9bee-01e3f5781829))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "SW2") (unit 1)
         )
@@ -4268,7 +4268,7 @@
     (pin "1" (uuid 46ee625f-acc6-49cb-9e4f-8c2625f1efc0))
     (pin "2" (uuid 75a03a91-aa30-47f7-8814-dfa7c2485f9e))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C5") (unit 1)
         )
@@ -4298,7 +4298,7 @@
     )
     (pin "1" (uuid cba24b6b-8f8a-40aa-8fd2-547eade91457))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR036") (unit 1)
         )
@@ -4323,7 +4323,7 @@
     )
     (pin "1" (uuid f69c58e1-b0d3-482b-b2d5-228fa34868dc))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#FLG02") (unit 1)
         )
@@ -4357,7 +4357,7 @@
     (pin "1" (uuid 8e3b1ae6-663f-4818-82bf-d58900fe78c9))
     (pin "2" (uuid 3e495ba2-8ffb-4a3e-8f6f-b915f72beb44))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C3") (unit 1)
         )
@@ -4387,7 +4387,7 @@
     )
     (pin "1" (uuid fe2aa22c-0ae5-4407-b57b-d9f808e00d66))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR027") (unit 1)
         )
@@ -4416,7 +4416,7 @@
     (pin "1" (uuid 504e51cd-535a-4883-b350-d4fc628f8621))
     (pin "2" (uuid 0a516625-d2c3-4a6a-9a45-e8074a07bffb))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C14") (unit 1)
         )
@@ -4446,7 +4446,7 @@
     )
     (pin "1" (uuid 37dbd375-e559-4a0f-92b7-0da5d461df7e))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR08") (unit 1)
         )
@@ -4480,7 +4480,7 @@
     (pin "1" (uuid c98fb4a2-4974-4c32-96cb-3c67a57ad4cb))
     (pin "2" (uuid 97ec4490-ee5e-4ca1-8705-da9e32f8c56d))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C13") (unit 1)
         )
@@ -4510,7 +4510,7 @@
     )
     (pin "1" (uuid c4b38241-8fb6-4199-8578-381ea131d8cf))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR035") (unit 1)
         )
@@ -4535,7 +4535,7 @@
     )
     (pin "1" (uuid 0b6a393b-fcba-4149-a52d-470968755769))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR021") (unit 1)
         )
@@ -4566,7 +4566,7 @@
     (pin "3" (uuid 2c0d4cf1-6293-48d3-b0b0-2fab892b9530))
     (pin "4" (uuid c3b6be12-04d8-49f3-80ff-08140f4a50a3))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "Y1") (unit 1)
         )
@@ -4596,7 +4596,7 @@
     )
     (pin "1" (uuid 818d7fe2-49bb-48ff-9ba5-e9e004f25c8c))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR024") (unit 1)
         )
@@ -4621,7 +4621,7 @@
     )
     (pin "1" (uuid 112ecdee-e770-4473-aceb-fcb82ed687aa))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR013") (unit 1)
         )
@@ -4710,7 +4710,7 @@
     (pin "8" (uuid 81f3a943-afab-48e8-a7b3-d8dd8cf8aa38))
     (pin "9" (uuid ac948901-7a6f-4a78-938b-ece7d49a8eae))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "U3") (unit 1)
         )
@@ -4740,7 +4740,7 @@
     )
     (pin "1" (uuid f187f138-813f-469c-a61c-d6eae7caedf3))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR03") (unit 1)
         )
@@ -4770,7 +4770,7 @@
     )
     (pin "1" (uuid 08225f97-2cbb-4d0d-aa2d-db52d763c8ec))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR014") (unit 1)
         )
@@ -4800,7 +4800,7 @@
     )
     (pin "1" (uuid b1d994c0-a43e-4ece-8c26-6841b7365b30))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR029") (unit 1)
         )
@@ -4835,7 +4835,7 @@
     (pin "1" (uuid c00109b5-9f1e-41e4-aeb6-083c55042e13))
     (pin "2" (uuid 62c07db7-e351-4796-9542-cdfd2492bf32))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN5") (unit 1)
         )
@@ -4864,7 +4864,7 @@
     (pin "1" (uuid 43364aaa-684c-4e10-aefa-e3d54a3603d1))
     (pin "2" (uuid cc9bed03-031c-41c6-b4de-665f01c288e2))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "R3") (unit 1)
         )
@@ -4898,7 +4898,7 @@
     (pin "1" (uuid a900cb27-90ac-41fd-a2e4-19de6183165c))
     (pin "2" (uuid 5555e943-1e8c-4b1c-b501-29b7d5830beb))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "R5") (unit 1)
         )
@@ -4928,7 +4928,7 @@
     )
     (pin "1" (uuid 0797dce3-0adb-42d7-a4be-e4c605fdbf2a))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR026") (unit 1)
         )
@@ -4953,7 +4953,7 @@
     )
     (pin "1" (uuid 1e68cc81-f400-4570-b0eb-7cfcb4b70093))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR037") (unit 1)
         )
@@ -4978,7 +4978,7 @@
     )
     (pin "1" (uuid 7709a7f8-3b8a-40a7-8451-d3caff8f6caf))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR018") (unit 1)
         )
@@ -5012,7 +5012,7 @@
     (pin "1" (uuid 20b76a6a-4b36-411f-a1a6-59112d5df822))
     (pin "2" (uuid f9acdca1-6064-4f84-9f22-e17da193d993))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "C6") (unit 1)
         )
@@ -5052,7 +5052,7 @@
     (pin "1" (uuid 0221f34a-3313-477c-a538-bd3a3beab1d5))
     (pin "2" (uuid 3ad508cc-43df-4ec3-87a5-a119d8a6c096))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN10") (unit 1)
         )
@@ -5081,7 +5081,7 @@
     (pin "1" (uuid 3cee74b8-d92e-422d-a8bb-9cbc432d2bda))
     (pin "2" (uuid d45b601e-093c-4066-9f6b-fedca80feb8c))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "R6") (unit 1)
         )
@@ -5115,7 +5115,7 @@
     (pin "1" (uuid b93f7df8-bda3-4ea8-8320-15eed88b4f89))
     (pin "2" (uuid 3cae92e1-10c3-4357-a7cc-c614d0259ab6))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "R4") (unit 1)
         )
@@ -5145,7 +5145,7 @@
     )
     (pin "1" (uuid 9af42a9e-74e8-45a3-8883-b1ee8e3f7934))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#PWR030") (unit 1)
         )
@@ -5170,7 +5170,7 @@
     )
     (pin "1" (uuid ca0c195c-ecd5-49fe-b2ff-361974e713aa))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "#FLG01") (unit 1)
         )
@@ -5212,7 +5212,7 @@
     (pin "6" (uuid 680deea0-f8f7-4484-bd67-8774e24df5b8))
     (pin "7" (uuid b6b36a87-2847-4ac0-85bf-9a4fae97433f))
     (instances
-      (project "Venom"
+      (project "VenomEZ"
         (path "/9bda465f-e399-4153-b93d-135c505ebd4f"
           (reference "CN6") (unit 1)
         )
