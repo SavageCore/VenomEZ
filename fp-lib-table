@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GP2040-CE")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/RP2040.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/easyeda2kicad.pretty")(options "")(descr ""))
+)
