@@ -327,7 +327,7 @@
       (net 9 "PS4 MODE") (pinfunction "7") (pintype "unspecified") (tstamp 69eee761-78c9-42d1-a413-dcf467396f49))
     (pad "8" thru_hole circle (at 7 0 180) (size 1.5 1.5) (drill 0.900024) (layers "*.Cu" "*.Paste" "*.Mask")
       (net 2 "GND") (pinfunction "8") (pintype "unspecified") (tstamp 53ce1b22-3e38-429d-89f3-976f2b2552bf))
-    (model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-TH_8P-P2.00_PH-8A.wrl"
+    (model "${KIPRJMOD}/easyeda2kicad.3dshapes/CONN-TH_8P-P2.00_PH-8A.wrl"
       (offset (xyz 0 -0.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2688,7 +2688,7 @@
       (net 13 "PLED 2") (pinfunction "6") (pintype "unspecified") (tstamp 54f6d977-b12b-4824-a21e-599ff5e132ce))
     (pad "7" thru_hole circle (at 6 0 180) (size 1.5 1.5) (drill 0.900024) (layers "*.Cu" "*.Paste" "*.Mask")
       (net 14 "PLED 1") (pinfunction "7") (pintype "unspecified") (tstamp ce72273a-a42b-4db6-8848-fde4b4768726))
-    (model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-TH_7P-P2.00_PH-7A.wrl"
+    (model "${KIPRJMOD}/easyeda2kicad.3dshapes/CONN-TH_7P-P2.00_PH-7A.wrl"
       (offset (xyz 0 -0.5 -0.1))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
