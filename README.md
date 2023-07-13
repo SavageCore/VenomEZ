@@ -7,6 +7,56 @@
 
 ![VenomEZ](https://github.com/SavageCore/VenomEZ/assets/171312/58cdfa13-59a2-46b5-a582-d7182dde0c66)
 
+## Ordering your own boards
+
+1. Go to [JLCPCB](https://jlcpcb.com/)
+
+2. Click on `Instant Quote`
+
+3. Click on `Add Gerber file` and choose the file named `GERBER-VenomEZ.zip`
+ from [Releases](https://github.com/SavageCore/VenomEZ/releases/latest)
+
+4. Choose the following options for the board:
+
+* Base Material = FR-4
+* Layers = 2
+* Dimensions = (should auto-populate) 71.97 mm x 41.99 mm
+* PCB Qty = 5 (or more)
+* Product Type = Industrial/Consumer electronics
+* Different Design = 1
+* Delivery Format = Single PCB
+* PCB Thickness = 1.6
+* PCB Color = Whatever you want
+* Silkscreen = N/A
+* Surface Finish = HASL(with lead)
+* Outer Copper Weight = 1oz
+* Via Covering = Tented
+* Board Outline Tolerance = +/- 0.2mm (Regular)
+* Confirm Production file = Yes
+* **Remove Order Number = Specify a location**
+* Flying Probe Test = Fully Test
+* Gold Fingers = No
+* Castellated Holes = No
+
+Advanced options: (I left these as default)
+
+* 4-Wire Kelvin Test = No
+* Paper between PCBs = No
+* Appearance Quality = IPC Class 2 Standard
+* Silkscreen Technology = Ink-jet/Screen Printing Silkscreen
+* Package Box = With JLCPCB logo
+
+PCB Assembly:
+
+* PCBA Type = Economic
+* Assembly Side = Top Side
+* PCBA Qty = (the same as PCB Qty)
+* Tooling holes = Added by JLCPCB
+* Confirm Parts Placement = Yes
+
+
+## This is what we're replacing:
+
 ![PXL_20230706_222544935](https://github.com/SavageCore/VenomEZ/assets/171312/070c1cbe-40d9-4150-9416-02d24ce2f595)
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
