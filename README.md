@@ -3,7 +3,7 @@
 
 **UNTESTED** - do not order yet! All I've done is printed the edge cuts on paper and confirmed it *should* fit. It's the same dimensions as the original PCB.
 
-"EZ" mod for the Venom PS3/PS4 Arcade Stick, using the RP2040 microcontroller and [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) firmware. It's a drop-in replacement for the existing PCB, apart from the change to a USB-C connector.
+"EZ" mod for the [Venom PS3/PS4 Arcade Stick](https://imgur.com/rmCg5gm), using the RP2040 microcontroller and [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) firmware. It's a drop-in replacement for the existing PCB, apart from the change to a USB-C connector.
 
 ![VenomEZ](https://github.com/SavageCore/VenomEZ/assets/171312/58cdfa13-59a2-46b5-a582-d7182dde0c66)
 
