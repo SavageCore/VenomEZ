@@ -8,6 +8,37 @@
 ![VenomEZ](https://github.com/SavageCore/VenomEZ/assets/171312/d6262efd-f4ef-4d3f-9a7a-6b57e9fd4318)
 ![VenomEZ-back](https://github.com/SavageCore/VenomEZ/assets/171312/23bb95b7-9ebc-49e4-9492-49424b47dde7)
 
+## Pins
+
+| GPIO | Function |
+| --- | -------- |
+17 | Up
+16 | Down
+14 | Left
+15 | Right
+5 | B1 / A / B / Cross / 2 / K1
+6 | B2 / B / A / Circle / 3 / K2
+13 | R2 / RT / ZR / R2 / 8 / K3
+11 | L2 / LT / ZL / L2 / 7 / K4
+7 | B3 / X / Y / Square / 1 / P1
+8 | B4 / Y / X / Triangle / 4 / P2
+12 | R1 / RB / R / R1 / 6 / P3
+10 | L1 / LB / L / L1 / 5 / P4
+19 | S1 / Back / Minus / Select / 9 / Coin
+18 | S2 / Start / Plus / Start / 10 / Start
+9 | A1 / Guide / Home / PS / 13 / ~
+20 | A2 / ~ / Capture / ~ / 14 / ~
+21 | Turbo
+25 | Turbo LED
+41 | Player LED 1
+40 | Player LED 2
+39 | Player LED 3
+38 | Player LED 4
+22* | LS/RS Toggle Switch
+23* | Turbo 1/2 Toggle Switch
+24* | PS3/PS4 Toggle Switch
+
+\* These pins are not mapped to anything in the firmware but are available for use with add-ons.
 
 ## Ordering your own boards
 
