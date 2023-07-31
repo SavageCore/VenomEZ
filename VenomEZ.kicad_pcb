@@ -245,7 +245,7 @@
     (property "Sheetname" "")
     (path "/8da16a95-3d71-42e0-af21-bc2febbf94da")
     (attr smd)
-    (fp_text reference "CN2" (at 0 -4) (layer "F.SilkS")
+    (fp_text reference "CN2" (at 0 -4) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 77388a65-48fe-4725-802f-b6be40ff79bb)
     )
