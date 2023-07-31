@@ -5,7 +5,7 @@
 
 "EZ" mod for the [Venom PS3/PS4 Arcade Stick](https://imgur.com/rmCg5gm), using the RP2040 microcontroller and [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) firmware. It's a drop-in replacement for the existing PCB, apart from the change to a USB-C connector.
 
-![VenomEZ](https://github.com/SavageCore/VenomEZ/assets/171312/d6262efd-f4ef-4d3f-9a7a-6b57e9fd4318)
+![VenomEZ](https://github.com/SavageCore/VenomEZ/assets/171312/d36bae48-fc1e-4f05-b7f6-0b4c7f334deb)
 ![VenomEZ-back](https://github.com/SavageCore/VenomEZ/assets/171312/23bb95b7-9ebc-49e4-9492-49424b47dde7)
 
 ## Pins
