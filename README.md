@@ -5,9 +5,12 @@
 
 "EZ" mod for the [Venom PS3/PS4 Arcade Stick](https://imgur.com/rmCg5gm), using the RP2040 microcontroller and [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) firmware. It's a drop-in replacement for the existing PCB, apart from the change to a USB-C connector.
 
+## Firmware
+
+Builds can be found [here](https://github.com/SavageCore/GP2040-CE/actions?query=is%3Asuccess+branch%3Afeature%2Fvenomez+event%3Apull_request) - these are pre-release builds and may not be stable and may lag behind the main branch.
+
 ![VenomEZ](https://github.com/SavageCore/VenomEZ/assets/171312/d36bae48-fc1e-4f05-b7f6-0b4c7f334deb)
 ![VenomEZ-back](https://github.com/SavageCore/VenomEZ/assets/171312/1b91df46-6774-4d86-97a6-d9af2606d588)
-
 
 ## Pins
 
@@ -30,16 +33,14 @@
 9 | A1 / Guide / Home / PS / 13 / ~
 20 | A2 / ~ / Capture / ~ / 14 / ~
 21 | Turbo
-25 | Turbo LED
-41 | Player LED 1
-40 | Player LED 2
-39 | Player LED 3
-38 | Player LED 4
-22* | LS/RS Toggle Switch
-23* | Turbo 1/2 Toggle Switch
-24* | PS3/PS4 Toggle Switch
-
-\* These pins are not mapped to anything in the firmware but are available for use with add-ons.
+22 | LS/DP Toggle Switch (bound to LS slider add-on, LS position = D-Pad, DP = LS)
+23 | Turbo 1/2 Toggle Switch (bound to RS slider add-on, Turbo 2 position = D-Pad, Turbo 1 = RS)
+24 | PS3/PS4 Toggle Switch (bound to Focus Mode add-on, disables Start/Select/PS buttons)
+25 | Player LED 1
+26 | Player LED 2
+27 | Player LED 3
+28 | Player LED 4
+29 | Turbo LED
 
 ## Ordering your own boards
 
