@@ -9,8 +9,9 @@
 
 Builds can be found [here](https://github.com/SavageCore/GP2040-CE/actions?query=is%3Asuccess+branch%3Afeature%2Fvenomez+event%3Apull_request) - these are pre-release builds and may not be stable and may lag behind the main branch.
 
-![VenomEZ](https://github.com/SavageCore/VenomEZ/assets/171312/d36bae48-fc1e-4f05-b7f6-0b4c7f334deb)
-![VenomEZ-back](https://github.com/SavageCore/VenomEZ/assets/171312/1b91df46-6774-4d86-97a6-d9af2606d588)
+![VenomEZ](https://github.com/SavageCore/VenomEZ/assets/171312/ac50d78a-1aae-4a72-85a8-501b6e38f338)
+![VenomEZ-back](https://github.com/SavageCore/VenomEZ/assets/171312/a738d956-d339-4f4a-9ea5-1c30d5c7b2b0)
+
 
 ## Pins
 
