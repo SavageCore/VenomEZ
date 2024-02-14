@@ -73,7 +73,8 @@ Builds can be found [here](https://github.com/SavageCore/GP2040-CE/actions?query
 * Flying Probe Test = Fully Test
 * Gold Fingers = No
 * Castellated Holes = No
-
+* Edge Plating = No
+  
 Advanced options: (I left these as default)
 
 * 4-Wire Kelvin Test = No
