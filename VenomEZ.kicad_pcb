@@ -11000,7 +11000,7 @@
   (gr_text "LED" (at 131.751947 115.544838) (layer "F.SilkS") (tstamp 895ec2b3-1bc7-43f9-87d2-c953a7b30e4f)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "Version 1.1\nPowered by GP2040-CE" (at 96.396823 90.614668) (layer "F.SilkS") (tstamp 8d69db6d-7022-40f4-84a5-618c7890382b)
+  (gr_text "Version 1.2\nPowered by GP2040-CE" (at 96.396823 90.614668) (layer "F.SilkS") (tstamp 8d69db6d-7022-40f4-84a5-618c7890382b)
     (effects (font (size 1 1) (thickness 0.09)) (justify left bottom))
   )
   (gr_text "RESET" (at 144.78 88.144537) (layer "F.SilkS") (tstamp 8e93978a-2eb0-4ab0-87dc-dc558e7debd5)
