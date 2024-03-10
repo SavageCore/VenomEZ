@@ -27,7 +27,7 @@
 	(pad 4 thru_hole circle (at 2.50 0.00 0.00) (size 1.52 1.52) (layers *.Cu *.Paste *.Mask)(drill 0.9144))
 	(pad 5 thru_hole circle (at 5.00 0.00 0.00) (size 1.52 1.52) (layers *.Cu *.Paste *.Mask)(drill 0.9144))
 	(fp_circle (center -7.50 2.40) (end -7.47 2.40) (layer F.Fab) (width 0.06))
-	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-TH_5P-P2.50_HC-XH-5A-G.wrl"
+	(model "C:/Users/SavageCore/Documents/Git/VenomEZ/lcsc.3dshapes/CONN-TH_5P-P2.50_HC-XH-5A-G.wrl"
 		(offset (xyz 0.000 0.550 3.400))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

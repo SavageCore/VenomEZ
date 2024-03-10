@@ -49,7 +49,7 @@
 	(fp_circle (center 4.00 0.00) (end 4.18 0.00) (layer F.Fab) (width 0.35))
 	(fp_circle (center -6.00 0.00) (end -5.82 0.00) (layer F.Fab) (width 0.35))
 	(fp_circle (center 6.00 0.00) (end 6.18 0.00) (layer F.Fab) (width 0.35))
-	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-TH_7P-P2.00_PH-7A.wrl"
+	(model "C:/Users/SavageCore/Documents/Git/VenomEZ/lcsc.3dshapes/CONN-TH_7P-P2.00_PH-7A.wrl"
 		(offset (xyz 0.000 -0.500 3.400))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))
