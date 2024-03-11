@@ -1,7 +1,7 @@
 # VenomEZ
 > GP2040-CE powered EZ Mod for Venom PS3/PS4 Arcade Stick
 
-**TESTING** - do not order yet! v1.2 has just been delivered, Player LEDs are still not working, howvever, the rest of the board is fully functional (including Turbo LED!) and fitment is finally good. I'm working on a new version of the board, v1.3, which will fix the LED issues and also re-add the USB connector found on the stock board so you can choose USB-C or not.
+**TESTING** - do not order yet! v1.2 has just been delivered, Player LEDs are still not working, however, the rest of the board is fully functional (including Turbo LED!) and fitment is finally good. I'm working on a new version of the board, v1.3, which will fix the LED issues. Further down the line I'll rework to also add the USB connector found on the stock board so you can choose USB-C or not. Personally I am adding a Neutrik connector to my stick, so I don't need the stock connector.
 
 "EZ" mod for the [Venom PS3/PS4 Arcade Stick](https://imgur.com/rmCg5gm), using the RP2040 microcontroller and [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) firmware. It's a drop-in replacement for the existing PCB, apart from the change to a USB-C connector.
 
